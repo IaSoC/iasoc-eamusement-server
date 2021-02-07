@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqv1PxS3GVH7B8DPydMI4noaPS5nnFYY9u0LXYO0gqXDqWVP1lb7/2ttpAlTrvXdbwUyU8sFIQIr9YfDxqphTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kongc\\Desktop\\ω0\\kbinxml\\kbinxml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kongc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.11\\microsoft.netcore.app.runtime.win-x64.3.1.11.nupkg.sha512",
+    "C:\\Users\\kongc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.11\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.11.nupkg.sha512",
+    "C:\\Users\\kongc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.11\\microsoft.aspnetcore.app.runtime.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

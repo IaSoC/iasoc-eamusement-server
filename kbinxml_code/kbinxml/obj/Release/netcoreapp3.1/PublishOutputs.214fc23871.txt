@@ -1,0 +1,8 @@
+C:\Users\kongc\Desktop\ω4\kbinxml\kbinxml.exe
+C:\Users\kongc\Desktop\ω4\kbinxml\kbinxml.dll
+C:\Users\kongc\Desktop\ω4\kbinxml\kbinxml.deps.json
+C:\Users\kongc\Desktop\ω4\kbinxml\kbinxml.runtimeconfig.json
+C:\Users\kongc\Desktop\ω4\kbinxml\kbinxml.pdb
+C:\Users\kongc\Desktop\ω4\kbinxml\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kongc\Desktop\ω4\kbinxml\System.Text.Encoding.CodePages.dll
+C:\Users\kongc\Desktop\ω4\kbinxml\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll

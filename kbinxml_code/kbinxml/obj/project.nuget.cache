@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qnXu+dI0C1kKJLU8YbGbN3+s8geA9fJ1c8hABvraqWABBr5lmPP+q+SCg5PP645AAhcMlYdoOWATd8CGZF3PcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kongc\\Desktop\\ω0\\kbinxml\\kbinxml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kongc\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\kongc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\kongc\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

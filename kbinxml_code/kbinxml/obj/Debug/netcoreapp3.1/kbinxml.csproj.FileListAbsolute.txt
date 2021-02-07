@@ -1,0 +1,13 @@
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Debug\netcoreapp3.1\kbinxml.exe
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Debug\netcoreapp3.1\kbinxml.deps.json
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Debug\netcoreapp3.1\kbinxml.runtimeconfig.json
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Debug\netcoreapp3.1\kbinxml.runtimeconfig.dev.json
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Debug\netcoreapp3.1\kbinxml.dll
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Debug\netcoreapp3.1\kbinxml.pdb
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Debug\netcoreapp3.1\kbinxml.csprojAssemblyReference.cache
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Debug\netcoreapp3.1\kbinxml.AssemblyInfoInputs.cache
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Debug\netcoreapp3.1\kbinxml.AssemblyInfo.cs
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Debug\netcoreapp3.1\kbinxml.csproj.CoreCompileInputs.cache
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Debug\netcoreapp3.1\kbinxml.dll
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Debug\netcoreapp3.1\kbinxml.pdb
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Debug\netcoreapp3.1\kbinxml.genruntimeconfig.cache

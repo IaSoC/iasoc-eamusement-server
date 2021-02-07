@@ -1,0 +1,17 @@
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Release\netcoreapp3.1\kbinxml.exe
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Release\netcoreapp3.1\kbinxml.deps.json
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Release\netcoreapp3.1\kbinxml.runtimeconfig.json
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Release\netcoreapp3.1\kbinxml.runtimeconfig.dev.json
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Release\netcoreapp3.1\kbinxml.dll
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Release\netcoreapp3.1\kbinxml.pdb
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Release\netcoreapp3.1\kbinxml.csprojAssemblyReference.cache
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Release\netcoreapp3.1\kbinxml.AssemblyInfoInputs.cache
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Release\netcoreapp3.1\kbinxml.AssemblyInfo.cs
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Release\netcoreapp3.1\kbinxml.csproj.CoreCompileInputs.cache
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Release\netcoreapp3.1\kbinxml.dll
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Release\netcoreapp3.1\kbinxml.pdb
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Release\netcoreapp3.1\kbinxml.genruntimeconfig.cache
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Release\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\kongc\Desktop\ω0\kbinxml\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\kongc\Desktop\ω0\kbinxml\obj\Release\netcoreapp3.1\kbinxml.csproj.CopyComplete
