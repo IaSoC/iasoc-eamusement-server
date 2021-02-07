@@ -1,0 +1,12 @@
+需要改到数据库的
+cardmng.inquire
+cardmng.authpass
+game.sv5_hiscore
+game.sv5_load_m
+game.sv5_load
+懒得做的
+game.sv5_buy
+可能还有个
+eacoin.checkin
+
+接口还没试出来的再说(

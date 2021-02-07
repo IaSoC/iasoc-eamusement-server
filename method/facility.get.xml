@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="SHIFT_JIS"?>
+<response>
+    <facility status="0">
+        <location>
+            <id __type="str" __size="3">ea</id>
+            <country __type="str" __size="3">EV</country>
+            <region __type="str" __size="2">1</region>
+            <name __type="str" __size="5">IaSoC</name>
+            <type __type="u8">0</type>
+            <countryname __type="str" __size="8">UNKNOWN</countryname>
+            <countryjname __type="str" __size="5">不明</countryjname>
+            <regionname __type="str" __size="5">UNKNOWN</regionname>
+            <regionjname __type="str" __size="5">UNKNOWN</regionjname>
+            <customercode __type="str" __size="6">IaSoC</customercode>
+            <companycode __type="str" __size="6">IaSoC</companycode>
+            <latitude __type="s32">6666</latitude>
+            <longitude __type="s32">6666</longitude>
+            <accuracy __type="u8">0</accuracy>
+        </location>
+        <line>
+            <id __type="str" __size="2">.</id>
+            <class __type="u8">0</class>
+        </line>
+        <portfw>
+            <globalip __type="ip4">1.0.0.127</globalip>
+            <globalport __type="u16">5700</globalport>
+            <privateport __type="u16">5700</privateport>
+        </portfw>
+        <public>
+            <flag __type="u8">1</flag>
+            <name __type="str" __size="8">UNKNOWN</name>
+            <latitude __type="str" __size="2">0</latitude>
+            <longitude __type="str" __size="2">0</longitude>
+        </public>
+        <share>
+            <eacoin>
+                <notchamount __type="s32">0</notchamount>
+                <notchcount __type="s32">0</notchcount>
+                <supplylimit __type="s32">100000</supplylimit>
+            </eacoin>
+            <url>
+                <eapass __type="str" __size="12">IaSoC v1.00</eapass>
+                <arcadefan __type="str" __size="12">IaSoC v1.00</arcadefan>
+                <konaminetdx __type="str" __size="12">IaSoC v1.00</konaminetdx>
+                <konamiid __type="str" __size="12">IaSoC v1.00</konamiid>
+                <eagate __type="str" __size="12">IaSoC v1.00</eagate>
+            </url>
+        </share>
+    </facility>
+</response>

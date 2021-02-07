@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="SHIFT_JIS"?>
+<response>
+    <game status="0">
+        <sc>
+            <d>
+                <id __type="u32">1069</id>
+                <ty __type="u32">1</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">4380487</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">4380487</l_sc>
+            </d>
+            <d>
+                <id __type="u32">80</id>
+                <ty __type="u32">1</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">4760273</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">4760273</l_sc>
+            </d>
+            <d>
+                <id __type="u32">60</id>
+                <ty __type="u32">0</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">6408114</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">6408114</l_sc>
+            </d>
+            <d>
+                <id __type="u32">275</id>
+                <ty __type="u32">1</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">8208860</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">8208860</l_sc>
+            </d>
+            <d>
+                <id __type="u32">76</id>
+                <ty __type="u32">1</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">5656814</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">5656814</l_sc>
+            </d>
+            <d>
+                <id __type="u32">71</id>
+                <ty __type="u32">1</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">4662775</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">4662775</l_sc>
+            </d>
+            <d>
+                <id __type="u32">1237</id>
+                <ty __type="u32">0</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">8235294</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">8235294</l_sc>
+            </d>
+            <d>
+                <id __type="u32">836</id>
+                <ty __type="u32">0</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">8964088</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">8964088</l_sc>
+            </d>
+            <d>
+                <id __type="u32">693</id>
+                <ty __type="u32">0</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">8891891</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">8891891</l_sc>
+            </d>
+            <d>
+                <id __type="u32">1055</id>
+                <ty __type="u32">0</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">8465485</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">8465485</l_sc>
+            </d>
+            <d>
+                <id __type="u32">930</id>
+                <ty __type="u32">1</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">607923</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">607923</l_sc>
+            </d>
+            <d>
+                <id __type="u32">426</id>
+                <ty __type="u32">1</ty>
+                <a_sq __type="str" __size="10">9993-5918</a_sq>
+                <a_nm __type="str" __size="5">SORA</a_nm>
+                <a_sc __type="u32">1341853</a_sc>
+                <l_sq __type="str" __size="10">9993-5918</l_sq>
+                <l_nm __type="str" __size="5">SORA</l_nm>
+                <l_sc __type="u32">1341853</l_sc>
+            </d>
+        </sc>
+    </game>
+</response>
